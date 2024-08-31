@@ -9,4 +9,6 @@ Data Scientist
 - B
 
   ### Projects
-  kdfjlkjs
+- ONE
+- TWO
+  

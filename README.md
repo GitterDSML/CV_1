@@ -1,4 +1,4 @@
-# Portfolio - Diego Diaz / Data-Science
+# Portfolio - Diego Diaz / Data Science
 
 ### Education
 
